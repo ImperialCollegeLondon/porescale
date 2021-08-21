@@ -1,0 +1,9 @@
+[submodule "pnflow"]
+	path = pnflow
+	url = git@github.com:ImperialCollegeLondon/pnflow.git
+[submodule "porefoam"]
+	path = porefoam
+	url = git@github.com:ImperialCollegeLondon/porefoam.git
+[submodule "ContactAngle"]
+	path = ContactAngle
+	url = git@github.com:ImperialCollegeLondon/ContactAngle.git
