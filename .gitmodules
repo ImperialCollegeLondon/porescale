@@ -1,0 +1,37 @@
+[submodule "src/script"]
+	path = src/script
+	url = git@github.com:aliraeini/script.git
+[submodule "src/include"]
+	path = src/include
+	url = git@github.com:aliraeini/sirun.git
+[submodule "pkgs/libtiff"]
+	path = pkgs/libtiff
+	url = git@github.com:aliraeini/libtiff.git
+[submodule "pkgs/zlib"]
+	path = pkgs/zlib
+	url = git@github.com:aliraeini/zlib.git
+[submodule "src/libvoxel"]
+	path = src/libvoxel
+	url = git@github.com:aliraeini/libvoxel.git
+[submodule "pkgs/hypre"]
+	path = pkgs/hypre
+	url = git@github.com:aliraeini/hypre.git
+[submodule "src/pnm"]
+	path = src/pnm
+	url = git@github.com:ImperialCollegeLondon/pnflow.git
+	branch = main
+[submodule "pkgs/foamx4m"]
+	path = pkgs/foamx4m
+	url = git@github.com:aliraeini/foamxm.git
+[submodule "src/porefoam1f"]
+	path = src/porefoam1f
+	url = git@github.com:ImperialCollegeLondon/poreFoam-singlePhase.git
+	branch = main
+[submodule "src/porefoam2f"]
+	path = src/porefoam2f
+	url = git@github.com:ImperialCollegeLondon/porefoam.git
+	branch = main
+[submodule "src/ContAngle"]
+	path = src/ContAngle
+	url = git@github.com:ImperialCollegeLondon/ContactAngle.git
+	branch = main

@@ -1,0 +1,60 @@
+// -*- C -*- style pnflow keywords:
+
+TITLE  Berea;  // base name for the output files
+
+writeStatistics true;
+
+
+NETWORK  F Berea;   // the base name for of the network file, without _link1.dat, _link2, _pore1
+
+
+
+//!cycle#  Final Sw   Final Pc   Sw steps   Compute Kr   Compute RI
+cycle1:    0.00     2.00E+05     0.05          T            T;
+cycle2:    1.00    -2.00E+05     0.05          T            T;
+cycle3:    0.00     2.00E+05     0.05          T            T;
+
+//!cycle# Inject from   Produce from     Boundary-condition 
+//!        Left  Right   Left    Right   Type   Water  Oil  
+cycle1_BC:   T     F       T       T      DP    1.00  2.00;
+cycle2_BC:   T     F       T       T      DP    2.00  1.00;
+cycle3_BC:   T     F       T       T      DP    1.00  2.00;
+
+//!       x[range]
+CALC_BOX:  0.2 0.9; //!bounding box for computing rel-permss
+
+//!          (Morrow)  [range]---Distribution--Radius Hysteresis
+//!            model  [bgn end] +weibull/-rand correl  adv-rec
+INIT_CONT_ANG:   1   0   10  -0.2    -3.0   rand   0.0;
+
+EQUIL_CON_ANG:   4   30   50   -0.2   -3.0   rand   0.0;
+
+
+//FRAC_CON_ANG:   0.7 T  120 150  0.2   3.0  corr 7;// Mixed wettability
+
+
+//   viscosity(Pa.s)  resistivity(Ohm.m)  density(kg/m3)    
+Water  0.001               1.2                1000.0;
+Oil   0.001               1000.0              1000.0;
+ClayResistivity            2.0 ;
+
+WaterOilInterface          0.03 ;//  interfacial tension (N/m)
+
+//RAND_SEED: 1002;
+//PORE_FILL_ALG: blunt2;
+//PORE_FILL_WGT: 0.0 0.5 1.0 2.0 5.0 10.0;
+
+DRAIN_SINGLETS: T;   // T for yes, F for no
+
+
+//         ball-stick visualization/animation files for Paraview
+//         .----------------- visualise  --------------------.
+//          init   Drainage  Imbibition  corners   all steps
+//visuaLight  T        T          T         F          T ;
+
+//                write full 3D visualization files for Paraview
+//         scale  resolution  .-------------- visualise  ------------------.
+//         radius   (6-18)    init  oil-inj  water-inj  corners   all steps
+//visualize:  1.0     10        T      F          F         T         F ;
+
+
