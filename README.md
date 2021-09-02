@@ -13,11 +13,11 @@
 
 First clone this repository:
 
-`git clone git@github.com:aliraeini/porescale.git`
+`git clone git@github.com:ImperialCollegeLondon/porescale.git`
 
 or 
 
-`git clone https://github.com/aliraeini/porescale.git`
+`git clone https://github.com/ImperialCollegeLondon/porescale.git`
 
 and then update the common modules:
 
