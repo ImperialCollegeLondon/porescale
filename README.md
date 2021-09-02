@@ -34,7 +34,6 @@ To **clone all the modules at once**, which can be time-consuming to compile, ru
 
 ----------------------------------------------------------------
 
-
 To cherry-pick the submodules, first **clone this repository:**
 
 `git clone git@github.com:ImperialCollegeLondon/porescale.git`
@@ -49,37 +48,39 @@ and then **update the common modules:**
 
 Finally to get other codes run any combination of the following commands.
 
-----------------------------------------------------------------
+
 
 Pore-network model, **pnextract and pnflow:**
 
 `git submodule update --init  pkgs/hypre src/pnm`
 
-----------------------------------------------------------------
+
 
 **Contact angle code:**
 
 `git submodule update --init  pkgs/foamx4m src/ContAngle`
 
-----------------------------------------------------------------
+
 
 **Porefoam two-phase** flow solver:
 
 `git submodule update --init  pkgs/foamx4m src/porefoam2f`
 
-----------------------------------------------------------------
+
 
 **Porefoam single-phase** flow solver:
 
 `git submodule update --init  pkgs/foamx4m src/porefoam1f`
 
+
 ----------------------------------------------------------------
 
-### Build from scratch
+### Create from scratch
 
 Instead of running the git commands above, you can run the contents of 
 [setup_from_scratch.sh](setup_from_scratch.sh), to generate this 
 repository from scratch.
+
 
 ----------------------------------------------------------------
 
@@ -90,6 +91,7 @@ Compilation requires gnu and cmake and a c++ compiler.  Compilation of porefoam 
 Once you have the prerequisites installed, to compile the codes, run `make`, or `make -j` for parallel build. 
 
 To test the compilation run `make test`.
+
 
 ----------------------------------------------------------------
 
