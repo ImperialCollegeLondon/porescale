@@ -1,6 +1,6 @@
 
 
-## Pore-scale modules for code developers
+## Pore-scale-modelling modules for code developers
 
 This repository serves as developer guide for integrating different git 
 codes/submodules linked here and contains no code of its own. 
