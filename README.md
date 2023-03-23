@@ -18,7 +18,7 @@ to Github.
 
  ----------------------------------------------------------------
 
-### See [doc](doc) folder and doc and README files in each modules directory for further details
+### See [doc](doc) folder and doc and README files in each modules directory for further details.
 
  ----------------------------------------------------------------
 
