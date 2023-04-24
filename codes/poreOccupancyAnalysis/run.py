@@ -4,6 +4,9 @@ import PoreOccupancyAnalysis
 import matplotlib.pyplot as plt
 import os
 
+#Address of folder containing tif files
+Originalpath = 'tifImages/'
+
 #List of tiff file names to be mapped without tiff extension
 fileNameS = ["TiffFileName1","TiffFileName2"]
 
