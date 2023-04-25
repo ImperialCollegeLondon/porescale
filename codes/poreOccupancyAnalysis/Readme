@@ -1,1 +1,8 @@
 
+In this GitHub repository, you will find the code that enables the quantification of pore and throat occupancy in a 3D micro-CT image. The code processes pore network data extracted from dry scan images using a dedicated pore network extraction algorithm. To familiarize yourself with the network extraction process from dry scans, please check out the "pnextract" repository at the following link:
+
+https://github.com/ImperialCollegeLondon/pnextract.git
+
+Subsequently, the wet image is mapped onto the extracted network. Please note that the preferred format for wet images is TIFF.
+
+This code generates the mapping results and provides the distribution of pores and throats based on the input data. Included in the repository is a standalone software in the form of a binary file, which simplifies the entire process. A sample file is provided for you to test the software and familiarize yourself with its functionality.
