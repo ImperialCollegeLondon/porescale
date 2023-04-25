@@ -7,4 +7,4 @@ Subsequently, the wet image is mapped onto the extracted network. Please note th
 
 This code generates the mapping results and provides the distribution of pores and throats based on the input data. 
 
-Included in the repository is a standalone software in the form of a binary file, which simplifies the entire process. A sample file is provided for you to test the software and familiarize yourself with its functionality.
+Included in the repository is a standalone software inside the zip file, which simplifies the entire process. A sample porous media file is provided for you to test the software and familiarize yourself with its functionality.
