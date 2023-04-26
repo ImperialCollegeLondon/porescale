@@ -10,8 +10,11 @@ This code generates the mapping results and provides the distribution of pores a
 Included in the repository is a windows-based standalone software inside the zip file, which simplifies the entire process. A sample porous media file is provided for you to test the software and familiarize yourself with its functionality.
 
 
-Citation
-If you use the code provided in this repository for your research or project, please cite the following papers as they form the basis of the work implemented here:
+Citing our Work
+If you find this code useful and use it in your research or project, please consider citing the following papers that describe the underlying methods and models:
 
-[Paper Title 1], [Author(s)], [Journal Name], [Year], [Volume], [Issue], [Page Numbers], DOI: 10.1103/PhysRevE.102.023302
-[Paper Title 2], [Author(s)], [Journal Name], [Year], [Volume], [Issue], [Page Numbers], DOI: 10.1007/s11242-021-01609-y
+Foroughi, Sajjad, et al. "Pore-by-pore modeling, analysis, and prediction of two-phase flow in mixed-wet rocks." Physical Review E 102.2 (2020): 023302. DOI: 10.1103/PhysRevE.102.023302
+
+Foroughi, Sajjad, Branko Bijeljic, and Martin J. Blunt. "Pore-by-pore modelling, validation and prediction of waterflooding in oil-wet rocks using dynamic synchrotron data." Transport in Porous Media 138.2 (2021): 285-308. DOI: 10.1007/s11242-021-01609-y
+
+By citing our work, you will help others to understand the foundation of this code and contribute to the recognition of our research efforts.
