@@ -9,9 +9,7 @@ Included in the repository is a __windows-based standalone software__ inside the
 
 ## Required Repository
 
-To use this code, you first need to perform pore network extraction. To familiarize yourself with the network extraction process from dry scans, please check out the **pnextract** repository at the following link:
-
-[https://github.com/ImperialCollegeLondon/pnextract.git](https://github.com/ImperialCollegeLondon/pnextract.git)
+To use this code, you first need to perform pore network extraction. To familiarize yourself with the network extraction process from dry scans, please check out the [**pnextract**](https://github.com/ImperialCollegeLondon/pnextract.git) repository.
 
 
 
