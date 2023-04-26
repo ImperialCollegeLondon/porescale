@@ -8,3 +8,10 @@ Subsequently, the wet image is mapped onto the extracted network. Please note th
 This code generates the mapping results and provides the distribution of pores and throats based on the input data. 
 
 Included in the repository is a windows-based standalone software inside the zip file, which simplifies the entire process. A sample porous media file is provided for you to test the software and familiarize yourself with its functionality.
+
+
+Citation
+If you use the code provided in this repository for your research or project, please cite the following papers as they form the basis of the work implemented here:
+
+[Paper Title 1], [Author(s)], [Journal Name], [Year], [Volume], [Issue], [Page Numbers], DOI: 10.1103/PhysRevE.102.023302
+[Paper Title 2], [Author(s)], [Journal Name], [Year], [Volume], [Issue], [Page Numbers], DOI: 10.1007/s11242-021-01609-y
