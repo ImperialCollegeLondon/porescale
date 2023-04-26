@@ -7,10 +7,10 @@ Subsequently, the wet image is mapped onto the extracted network. Please note th
 
 This code generates the mapping results and provides the distribution of pores and throats based on the input data. 
 
-Included in the repository is a windows-based standalone software inside the zip file, which simplifies the entire process. A sample porous media file is provided for you to test the software and familiarize yourself with its functionality.
+Included in the repository is a __windows-based standalone software__ inside the zip file, which simplifies the entire process. A sample porous media file is provided for you to test the software and familiarize yourself with its functionality.
 
 
-Citing our Work
+**Citing our Work**
 If you find this code useful and use it in your research or project, please consider citing the following papers that describe the underlying methods and models:
 
 Foroughi, Sajjad, et al. "Pore-by-pore modeling, analysis, and prediction of two-phase flow in mixed-wet rocks." Physical Review E 102.2 (2020): 023302. DOI: 10.1103/PhysRevE.102.023302
