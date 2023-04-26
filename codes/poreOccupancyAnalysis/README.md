@@ -10,6 +10,7 @@ Included in the repository is a __windows-based standalone software__ inside the
 
 
 **Citing our Work**
+
 If you find this code useful and use it in your research or project, please consider citing the following papers that describe the underlying methods and models:
 
 Foroughi, Sajjad, et al. "Pore-by-pore modeling, analysis, and prediction of two-phase flow in mixed-wet rocks." Physical Review E 102.2 (2020): 023302. DOI: 10.1103/PhysRevE.102.023302
