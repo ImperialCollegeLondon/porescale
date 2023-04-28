@@ -1,3 +1,5 @@
+## About Repository
+
 In this GitHub repository, you will find the code that enables the quantification of pore and throat occupancy in a 3D micro-CT image. The code processes pore network data extracted from dry scan images using a dedicated pore network extraction algorithm. 
 
 Subsequently, the wet image is mapped onto the extracted network. Please note that the preferred format for wet images is TIFF.
