@@ -9,7 +9,7 @@ This code allows you to perform detailed pore occupancy analysis on wet micro-CT
 
 - **Overall Pore and Throat Distributions:** In addition to specific phase distributions, the code also provides the distribution data for all pores and throats within the extracted network (Both volume-weighted and frequency-based types of distributions can be generated). This is useful for comprehensive network analysis and comparisons between different phases.
 
-## Standalone software
+## Standalone Software
 
 Included in the repository is a __windows-based standalone software__ inside the [**bin.zip**](https://github.com/ImperialCollegeLondon/porescale/blob/master/codes/poreOccupancyAnalysis/bin.zip) file, which simplifies the entire process. This standalone software does not require any dependencies. A sample porous media file is provided for you to test the software and familiarize yourself with its functionality.
 
