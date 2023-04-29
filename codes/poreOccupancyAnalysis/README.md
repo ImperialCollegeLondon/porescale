@@ -5,9 +5,9 @@ This code allows you to perform detailed pore occupancy analysis on wet micro-CT
 
 **Dominant Phase Identification:** The code identifies and signals the dominant phase within each pore and throat. This data is crucial for deciphering fluid distribution and flow behavior in your porous media.
 
-**Pore and Throat Size Distributions for Specific Phases:** The code creates distribution charts for pores and throats that contain a specific phase. These charts are plotted against pore and throat radii, offering a clear visual representation of phase distribution in your porous media. Tabulated data is also provided for further analysis.
+**Pore and Throat Size Distributions for Specific Phases:** The code creates distribution charts for pores and throats that contain a specific phase. These charts are plotted against pore and throat radii, offering a clear visual representation of phase distribution in your porous media. It's worth mentioning that both volume-weighted and frequency-based types of distributions can be generated. Tabulated data is also provided for further analysis. 
 
-**Overall Pore and Throat Distributions:** In addition to specific phase distributions, the code also provides the distribution data for all pores and throats within the extracted network. This is useful for comprehensive network analysis and comparisons between different phases.
+**Overall Pore and Throat Distributions:** In addition to specific phase distributions, the code also provides the distribution data for all pores and throats within the extracted network (Both volume-weighted and frequency-based types of distributions can be generated.). This is useful for comprehensive network analysis and comparisons between different phases.
 
 ## Standalone software
 
