@@ -1,5 +1,6 @@
 ## Pore Occupancy Analysis:
 
+In this GitHub repository, you will find the code that enables the quantification of pore and throat occupancy in a 3D micro-CT image. The code processes pore network data extracted from dry scan images using a dedicated pore network extraction algorithm. Subsequently, the wet image is mapped onto the extracted network. Please note that the preferred format for wet images is TIFF.This code generates the mapping results and provides the distribution of pores and throats based on the input data. 
 This code allows you to perform detailed pore occupancy analysis on wet micro-CT images of porous media. The primary features include:
 
 **Dominant Phase Identification:** The code identifies and signals the dominant phase within each pore and throat. This data is crucial for deciphering fluid distribution and flow behavior in your porous media.
@@ -8,14 +9,7 @@ This code allows you to perform detailed pore occupancy analysis on wet micro-CT
 
 **Overall Pore and Throat Distributions:** In addition to specific phase distributions, the code also provides the distribution data for all pores and throats within the extracted network. This is useful for comprehensive network analysis and comparisons between different phases.
 
-Consult the included documentation for more detailed instructions and examples of usage. If you encounter any issues or have suggestions for improvement, please feel free to raise an issue or submit a pull request.
-
-
-In this GitHub repository, you will find the code that enables the quantification of pore and throat occupancy in a 3D micro-CT image. The code processes pore network data extracted from dry scan images using a dedicated pore network extraction algorithm. 
-
-Subsequently, the wet image is mapped onto the extracted network. Please note that the preferred format for wet images is TIFF.
-
-This code generates the mapping results and provides the distribution of pores and throats based on the input data. 
+## Standalone software
 
 Included in the repository is a __windows-based standalone software__ inside the [**bin.zip**](https://github.com/ImperialCollegeLondon/porescale/blob/master/codes/poreOccupancyAnalysis/bin.zip) file, which simplifies the entire process. This standalone software does not require any dependencies. A sample porous media file is provided for you to test the software and familiarize yourself with its functionality.
 
@@ -38,3 +32,7 @@ If you find this code useful and use it in your research or project, please cons
 
 
 By citing our work, you will help others to understand the foundation of this code and contribute to the recognition of our research efforts.
+
+## Contact and References
+If you encounter any issues or have suggestions for improvement, please feel free to raise an issue or submit a pull request. For contacts and references please see: https://www.imperial.ac.uk/earth-science/research/research-groups/pore-scale-modelling or contact Sajjad Foroughi, email: s.foroughi@imperial.ac.uk
+
