@@ -1,6 +1,6 @@
 ## Pore Occupancy Analysis:
 
-In this GitHub repository, you will find the code that enables the quantification of pore and throat occupancy in a 3D micro-CT image. The code processes pore network data extracted from dry scan images using a dedicated pore network extraction algorithm. Subsequently, the wet image is mapped onto the extracted network. Please note that the preferred format for wet images is TIFF.This code generates the mapping results and provides the distribution of pores and throats based on the input data. 
+In this GitHub repository, you will find the code that enables the quantification of pore and throat occupancy in a 3D micro-CT image. The code processes pore network data extracted from dry scan images using a dedicated pore network extraction algorithm. Subsequently, the wet image is mapped onto the extracted network. Please note that the preferred format for wet images is TIFF. This code generates the mapping results and provides the distribution of pores and throats based on the input data. 
 This code allows you to perform detailed pore occupancy analysis on wet micro-CT images of porous media. The primary features include:
 
 - **Dominant Phase Identification:** The code identifies and signals the dominant phase within each pore and throat. This data is crucial for deciphering fluid distribution and flow behavior in your porous media.
