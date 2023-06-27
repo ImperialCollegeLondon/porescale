@@ -13,6 +13,23 @@ This code allows you to perform detailed pore occupancy analysis on wet micro-CT
 
 Included in the repository is a __windows-based standalone software__ inside the [**bin.zip**](https://github.com/ImperialCollegeLondon/porescale/blob/master/codes/poreOccupancyAnalysis/bin.zip) file, which simplifies the entire process. This standalone software does not require any dependencies. A sample porous media file is provided for you to test the software and familiarize yourself with its functionality.
 
+## Usage
+
+To utilize this software effectively, please follow these steps:
+
+**1.** Save your dry scan image in the RAW format using ImageJ software. Alternatively, you can compress your file using gzip.
+
+**2.** If you're uncertain about the file format, reimport your file in ImageJ and save it again in RAW to ensure the format is correct.
+
+**3.** The image should be an 8-bit image, where zero represents pores and one represents the rest of the rock and the image border.
+
+**4.** When saving your image or compressed file, accurately record the filename. This name should be used for the MHD file (which contains image information) and should also be used within the MHD file.
+
+**5.** In the MHD file, accurately write the image size and voxel size. These are crucial details necessary to use your own image. For ease, you can copy the sample MHD file and change the name and size, as well as the voxel size.
+
+**6.** For two-phase flow images, these should be in the TIF format. Import the TIF file into ImageJ and save it again as a TIF. The software works optimally with TIF images prepared in ImageJ.
+
+By following these steps, you'll ensure compatibility with our software.
 
 
 ## Required Repository
