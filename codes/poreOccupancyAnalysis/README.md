@@ -9,6 +9,11 @@ This code allows you to perform detailed pore occupancy analysis on wet micro-CT
 
 - **Overall Pore and Throat Distributions:** In addition to specific phase distributions, the code also provides the distribution data for all pores and throats within the extracted network (Both volume-weighted and frequency-based types of distributions can be generated). This is useful for comprehensive network analysis and comparisons between different phases.
 
+## Required Repository
+
+To use this code, you first need to perform pore network extraction. To familiarize yourself with the network extraction process from dry scans, please check out the [**pnextract**](https://github.com/ImperialCollegeLondon/pnextract.git) repository.
+
+
 ## Standalone Software
 
 Included in the repository is a __windows-based standalone software__ inside the [**bin.zip**](https://github.com/ImperialCollegeLondon/porescale/blob/master/codes/poreOccupancyAnalysis/bin.zip) file, which simplifies the entire process. This standalone software does not require any dependencies. A sample porous media file is provided for you to test the software and familiarize yourself with its functionality.
@@ -32,9 +37,7 @@ To utilize this software effectively, please follow these steps:
 By following these steps, you'll ensure compatibility with our software.
 
 
-## Required Repository
 
-To use this code, you first need to perform pore network extraction. To familiarize yourself with the network extraction process from dry scans, please check out the [**pnextract**](https://github.com/ImperialCollegeLondon/pnextract.git) repository.
 
 
 
