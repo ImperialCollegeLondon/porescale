@@ -28,11 +28,9 @@ To utilize this software effectively, please follow these steps:
 
 **3.** The image should be an 8-bit image, where zero represents pores and one represents the rest of the rock and the image border.
 
-**4.** When saving your image or compressed file, accurately record the filename. This name should be used for the MHD file (which contains image information) and should also be used within the MHD file.
+**4.** The code automatically inserts the image size and voxel size into the MHD file based on the information you provide. After selecting the dry scan image, you will be prompted to enter the image details, including the size (Nx * Ny * Nz) and voxel size.
 
-**5.** In the MHD file, accurately write the image size and voxel size. These are crucial details necessary to use your own image. For ease, you can copy the sample MHD file and change the name and size, as well as the voxel size.
-
-**6.** For two-phase flow images, these should be in the TIF format. Import the TIF file into ImageJ and save it again as a TIF. The software works optimally with TIF images prepared in ImageJ.
+**5.** For two-phase flow images, these should be in the TIF format. Import the TIF file into ImageJ and save it again as a TIF. The software works optimally with TIF images prepared in ImageJ.
 
 By following these steps, you'll ensure compatibility with our software.
 
