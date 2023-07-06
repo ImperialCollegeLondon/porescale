@@ -22,7 +22,7 @@ Included in the repository is a __windows-based standalone software__ inside the
 
 To utilize this software effectively, please follow these steps:
 
-**1.** Save your dry scan image in the RAW format using ImageJ software. Alternatively, you can compress your file using gzip.
+**1.** Save your dry scan image in the RAW format using ImageJ software. Alternatively, you can compress your file using gzip to raw.gz.
 
 **2.** If you're uncertain about the file format, reimport your file in ImageJ and save it again in RAW to ensure the format is correct.
 
