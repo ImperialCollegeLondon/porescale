@@ -45,9 +45,8 @@ If you find this code useful and use it in your research or project, please cons
 
 
 1. [**Foroughi, Sajjad, et al. "Pore-by-pore modeling, analysis, and prediction of two-phase flow in mixed-wet rocks." Physical Review E 102.2 (2020): 023302.**](https://doi.org/10.1103/PhysRevE.102.023302)
-
-2. [**Zhang, Guanglei, Sajjad Foroughi, Ali Q. Raeini, Martin J. Blunt, and Branko Bijeljic. "The impact of bimodal pore size distribution and wettability on relative permeability and capillary pressure in a microporous limestone with uncertainty quantification." Advances in Water Resources 171 (2023): 104352..**](https://doi.org/10.1007/s11242-021-01609-y)
-
+  
+2. [**Foroughi, Sajjad, Branko Bijeljic, and Martin J. Blunt. "Pore-by-pore modelling, validation and prediction of waterflooding in oil-wet rocks using dynamic synchrotron data." Transport in Porous Media 138.2 (2021): 285-308.**](https://doi.org/10.1007/s11242-021-01609-y)
 
 By citing our work, you will help others to understand the foundation of this code and contribute to the recognition of our research efforts.
 
