@@ -1,5 +1,9 @@
 ## relPermCorrection
-A method to correct steady-state relative permeability measurements for inhomogeneous saturation profiles in one-dimensional flow.
+The Relative Permeability Correction Code is a novel method that corrects steady-state relative permeability calculations for inhomogeneous saturation profiles along the flow direction. Traditionally, relative permeability is determined using Darcy's law on small rock samples, assuming a homogeneous saturation profile and constant capillary pressure. However, these assumptions are rarely accurate due to local inhomogeneities and the capillary end effect, where the wetting phase tends to be retained at the outlet.
+
+Our code introduces an analytical approach to correct relative permeabilities using only the measured pressure drops for various fractional flow values, an estimation of capillary pressure, and the saturation profiles. By applying an optimization routine, the code identifies the range of relative permeability values consistent with the uncertainties in the measured pressure.
+
+A significant advantage of our method is its ability to systematically account for the underestimation of relative permeability caused by assuming a homogeneous saturation profile. This effect is particularly pronounced in media with one strongly wetting phase, exhibiting a noticeable capillary end effect. 
 
 
 ## Citing our Work
