@@ -12,7 +12,7 @@ If you find this code useful and use it in your research or project, please cons
 
 
 1. [**Guanglei Zhang, Sajjad Foroughi, Branko Bijeljic, and Martin J. Blunt. "A Method to Correct Steady-State Relative Permeability Measurements for Inhomogeneous Saturation Profiles in One-Dimensional Flow." Transport in Porous Media (2023).**](https://doi.org/10.1007/s11242-023-01988-4)
-2. [**Guanglei Zhang, Sajjad Foroughi, Ali Q. Raeini, Martin J. Blunt, and Branko Bijeljic. "The impact of bimodal pore size distribution and wettability on relative permeability and capillary pressure in a microporous limestone with uncertainty quantification." Advances in Water Resources 171 (2023): 104352..**](https://doi.org/10.1016/j.advwatres.2022.104352)
+2. [**Guanglei Zhang, Sajjad Foroughi, Ali Q. Raeini, Martin J. Blunt, and Branko Bijeljic. "The impact of bimodal pore size distribution and wettability on relative permeability and capillary pressure in a microporous limestone with uncertainty quantification." Advances in Water Resources 171 (2023): 104352.**](https://doi.org/10.1016/j.advwatres.2022.104352)
 
 
 By citing our work, you will help others to understand the foundation of this code and contribute to the recognition of our research efforts.
