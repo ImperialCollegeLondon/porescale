@@ -23,7 +23,7 @@ Included in the repository is a __windows-based standalone software__ inside the
 To utilize this software effectively, please follow these steps:
 
 
-**1.** The input for the image should be a segmented dry-scan image (which can be in raw, raw.gz, or TIF format). It must be an 8-bit image, where zero represents pores, one represents the rest.
+**1.** The input for the image should be a segmented dry-scan image, which can be in raw, raw.gz, or TIF format. It must be an 8-bit image, where zero represents pores, and one represents the rest.
 
 **2.** Once you have selected the dry-scan image, you will be prompted to enter image details, including size (Nx * Ny * Nz) and voxel size. The code will automatically insert the image size and voxel size into the MHD file based on the information you provide. 
 
