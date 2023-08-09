@@ -22,15 +22,12 @@ Included in the repository is a __windows-based standalone software__ inside the
 
 To utilize this software effectively, please follow these steps:
 
-**1.** Save your dry scan image in the RAW format using ImageJ software. Alternatively, you can compress your file using gzip to raw.gz.
 
-**2.** If you're uncertain about the file format, reimport your file in ImageJ and save it again in RAW to ensure the format is correct.
+**1.** The input for the image should be a segmented dry-scan image (which can be in raw, raw.gz, or TIF format). It must be an 8-bit image, where zero represents pores, one represents the rest of the rock, and the image border.
 
-**3.** The image should be an 8-bit image, where zero represents pores and one represents the rest of the rock and the image border.
+**2.** Once you have selected the dry-scan image, you will be prompted to enter image details, including size (Nx * Ny * Nz) and voxel size. The code will automatically insert the image size and voxel size into the MHD file based on the information you provide. 
 
-**4.** After selecting the dry scan image, you will be prompted to enter the image details, including the size (Nx * Ny * Nz) and voxel size. The code automatically inserts the image size and voxel size into the MHD file based on the information you provide. 
-
-**5.** For two-phase flow images, these should be in the TIF format. Import the TIF file into ImageJ and save it again as a TIF. The software works optimally with TIF images prepared in ImageJ.
+**3.** If you are dealing with two-phase flow images, they should be in TIF format. Import the TIF file into ImageJ and save it again as a TIF. The software performs optimally with TIF images prepared using ImageJ.
 
 By following these steps, you'll ensure compatibility with our software.
 
