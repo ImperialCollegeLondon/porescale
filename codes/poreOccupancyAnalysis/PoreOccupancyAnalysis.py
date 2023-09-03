@@ -416,7 +416,7 @@ def plotPoreAndThroatDistPhase(fileName, nBin=30, DistType='V', phaseDesired=-1)
 
     plt.fill_between(x, 0, y, color='silver', label='_nolegend_')
     plt.xlim([np.min(x), poreRadiusMaximimLimit])
-    plt.ylim([np.min(y), np.max(y) *
+    plt.ylim([np.min(y), np.max(y) * 1.1])
     plt.xlabel('Radius (${\mu}m$)')
     plt.ylabel('Probability')
     plt.title('Throat size distribution')
