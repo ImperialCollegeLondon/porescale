@@ -13,7 +13,7 @@ This is a capillary model that we have proposed based on a tangent function:
 
 ## Usage
 
-The input to the code should include lists of Sw (water saturation) and capillary pressure.
+The input to the code should include lists of Sw (water saturation) and capillary pressure (J-function).
 
 ## Citing our Work
 
