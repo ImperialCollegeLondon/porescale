@@ -2,7 +2,7 @@
 
 This is a capillary model that we have proposed based on a tangent function:
 
-**P<sub>c</sub> = A + B * tan(π/2 - π * S<sub>e</sub><sup>C</sup>)**
+**J(S<sub>e</sub>) = A + B * tan(π/2 - π * S<sub>e</sub><sup>C</sup>)**
 
 ## Model Description
 
