@@ -18,8 +18,8 @@ def myOF1(x):
     
     x_data_normalized = (x_data - SwMin) / (SwMax - SwMin)
     
-    #x_data_normalized = x_data_normalized#[5:-10]#[SwRange]
-    y_data1 = y_data#[5:-10]#[SwRange]
+    #x_data_normalized = x_data_normalized
+    y_data1 = y_data
 
     yCalc = A + B * np.tan(np.pi / 2 - np.pi * x_data_normalized**C)
     
@@ -65,7 +65,7 @@ y_data = data[logicalDrainage,1]  # Second column
 # Fit the data to the custom function
 initial_guess = [0.5, 1.0, 1.0,0.99*min(x_data),1.01*max(x_data)]  # Initial guess for parameters A, B, and C
 
-# Define the bounds for the parameters A, B, and C,SwMin and SwMax
+# Define the bounds for the parameters A, B, and C, SwMin and SwMax
 bounds = [(-10, 10), (0, 20), (0, 10), (0.0*min(x_data), 1.0*min(x_data)), (max(x_data), 1)]  # Adjust the bounds as needed
 
 # Number of Latin Hypercube samples
