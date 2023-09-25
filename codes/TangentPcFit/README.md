@@ -7,6 +7,7 @@ This is a capillary model that we have proposed based on a tangent function:
 ## Model Description
 
 - **S<sub>e</sub>**: The effective saturation, defined as (S<sub>w</sub> - S<sub>wi</sub>) / (1 - S<sub>or</sub> - S<sub>wi</sub>).
+- **J(S<sub>e</sub>)**: The Leverett j-function 
 - **A, B, and C**: These parameters are used for fitting the model.
 - **S<sub>wi</sub> and S<sub>or</sub>**: Residual wetting and non-wetting saturations, which can also be considered as fitting parameters.
 
