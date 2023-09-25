@@ -23,8 +23,6 @@ def myOF1(x):
 
     yCalc = A + B * np.tan(np.pi / 2 - np.pi * x_data_normalized**C)
     
-
-
     # Calculate custom weights based on the distance from the middle (0.5)
     distance_from_middle = np.abs(x_data_normalized - 0.5)**1
     max_distance = np.max(distance_from_middle)
