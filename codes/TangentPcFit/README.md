@@ -1,6 +1,6 @@
 # FitTanCapillaryModel
 
-This is a capillary model based on a tangent function proposed as follows:
+This is a capillary model based on a tangent function proposed as follows [1]:
 
 **J(S<sub>e</sub>) = A + B * tan(π/2 - π * S<sub>e</sub><sup>C</sup>)**
 
