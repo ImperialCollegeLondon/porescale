@@ -1,6 +1,6 @@
 # FitTanCapillaryModel
 
-This is a capillary model based on a tangent function proposed as follows [1]:
+This is a capillary model based on a tangent function proposed as follows Foroughi et al. [1]:
 
 **J(S<sub>e</sub>) = A + B * tan(π/2 - π * S<sub>e</sub><sup>C</sup>)**
 
@@ -23,8 +23,8 @@ To use this code, provide input lists of Sw (water saturation) and capillary pre
 ## Citing our Work
 
 If you find this code useful and incorporate it into your research or project, please consider citing the following paper that describes the underlying methods and models:
-
-1. [**Sajjad Foroughi, Branko Bijeljic, and Martin J. Blunt. "A Closed-Form Equation for Capillary Pressure in Porous Media for All Wettabilities." Transport in Porous Media (2022).**](https://doi.org/10.1007/s11242-022-01868-3)
+## References 
+[1] [**Sajjad Foroughi, Branko Bijeljic, and Martin J. Blunt. "A Closed-Form Equation for Capillary Pressure in Porous Media for All Wettabilities." Transport in Porous Media (2022).**](https://doi.org/10.1007/s11242-022-01868-3)
 
 By citing our work, you contribute to the recognition of our research efforts and help others understand the foundation of this code.
 
