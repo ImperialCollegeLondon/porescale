@@ -31,7 +31,7 @@ To utilize this software effectively, please follow these steps:
 
 By following these steps, you'll ensure compatibility with our software.
 
-The provided sample porous media has dimensions of 500x500x500 and a voxel size of 2.75 microns.
+**Note:** The provided sample porous media has dimensions of 500x500x500 and a voxel size of 2.75 microns.
 
 
 
