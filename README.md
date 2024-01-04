@@ -26,7 +26,7 @@ Here are links to the individual code repositories:
 | **[Porefoam2f](https://github.com/ImperialCollegeLondon/porefoam)** | **![Porefoam2f image](path/to/Porefoam2f_image.png)Direct Numerical Simulation (DNS) of Incompressible Two-phase Flow on 3D Images of Porous Media Using OpenFOAM Finite-volume Library** | 
 | **[ContactAngle](https://github.com/ImperialCollegeLondon/ContactAngle)** | **![ContactAngle image](path/to/ContactAngle_image.png)Automatic Measurements of Contact Angle, Interfacial Curvature, and Surface Roughness in Pore-Scale 3D-Images** | 
 | **[relPermCorrection](https://github.com/ImperialCollegeLondon/relPermCorrection)** | **![relPermCorrection image](path/to/relPermCorrection_image.png)A Novel Method That Corrects Steady-State Relative Permeability Calculations for Inhomogeneous Saturation Profiles Along the Flow Direction** |
-| **[GGIECN](https://github.com/ImperialCollegeLondon/GGIECN)** | **![GGIECN image](path/to/GGIECN.png) Grey Scale Image Gradient Information Enhanced Intelligent Image Segmentation** |
+| **[GGIECN](https://github.com/ImperialCollegeLondon/GGIECN)** | **![GGIECN image](path/to/GGIECN.png) Enhanced Intelligent Segmentation with Grey Scale Image Gradients** |
  <!--
 ### **Here are links to the individual code repositories:** ###
 | Repository | **Figure with Caption** |
