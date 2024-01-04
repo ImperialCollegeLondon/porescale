@@ -35,3 +35,15 @@
 	path = src/ContAngle
 	url = git@github.com:ImperialCollegeLondon/ContactAngle.git
 	branch = main
+[submodule "src/GGIECN"]
+	path = src/GGIECN
+	url = https://github.com/ImperialCollegeLondon/GGIECN
+[submodule "src/TangentPcFit"]
+	path = src/TangentPcFit
+	url = https://github.com/ImperialCollegeLondon/TangentPcFit
+[submodule "src/poreOccupancyAnalysis"]
+	path = src/poreOccupancyAnalysis
+	url = https://github.com/ImperialCollegeLondon/poreOccupancyAnalysis
+[submodule "src/relPermCorrection"]
+	path = src/relPermCorrection
+	url = https://github.com/ImperialCollegeLondon/relPermCorrection
