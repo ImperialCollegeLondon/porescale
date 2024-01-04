@@ -47,3 +47,6 @@
 [submodule "src/relPermCorrection"]
 	path = src/relPermCorrection
 	url = https://github.com/ImperialCollegeLondon/relPermCorrection
+[submodule "src/IPWGAN"]
+	path = src/IPWGAN
+	url = https://github.com/ImperialCollegeLondon/IPWGAN
