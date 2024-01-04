@@ -3,42 +3,21 @@
 
 This repository serves as developer guide for integrating different git 
 codes/submodules linked here and contains no code of its own. 
-<!--
-Here are links to the individual code repositories:
-
-- **[pnextract](https://github.com/ImperialCollegeLondon/pnextract): Pore Network Extraction from micro-CT Images of Porous Media**
-- **[pnflow](https://github.com/ImperialCollegeLondon/pnflow): Pore Network Flow Simulation**
-- **[Porefoam1f](https://github.com/ImperialCollegeLondon/poreFoam-singlePhase): Direct Numerical Simulation (DNS) of Incompressible Single Phase Flow on 3D Images of Porous Media Using OpenFOAM Finite-volume Library.**
-- **[Porefoam2f](https://github.com/ImperialCollegeLondon/porefoam): Direct Numerical Simulation (DNS) of Incompressible Two-phase Flow on 3D Images of Porous Media Using OpenFOAM Finite-volume Library.**
-- **[PoreXtractor](https://github.com/ImperialCollegeLondon/poreOccupancyAnalysis): Analysis Software for Quantification of Pore and Throat Occupancy in 3D Micro-CT Images.**
-- **[ContactAngle](https://github.com/ImperialCollegeLondon/ContactAngle): Automatic Measurements of Contact Angle, Interfacial Curvature, and Surface Roughness in Pore-Scale 3D-Images**
--->
 
 
 ### **Here are links to the individual code repositories:** ###
  
 | Repository | Description |
 |------------|-------------|
-| **[pnextract](https://github.com/ImperialCollegeLondon/pnextract)** | **![pnextract image](readme_resources/pnextract.png)Pore Network Extraction from Micro-CT Images of Porous Media** |
-| **[PoreXtractor](https://github.com/ImperialCollegeLondon/poreOccupancyAnalysis)** | **![Image Alt Text](readme_resources/poreXtractor.jpeg) <div align="center">Analysis Software for Quantification of Pore and Throat Occupancy in 3D Micro-CT Images</div>** |
-| **[pnflow](https://github.com/ImperialCollegeLondon/pnflow)** | **![pnflow image](readme_resources/pnflow.gif)Pore Network Flow Simulation** |
-| **[Porefoam1f](https://github.com/ImperialCollegeLondon/poreFoam-singlePhase)** | **![Porefoam1f image](readme_resources/Porefoam1f.png)Direct Numerical Simulation (DNS) of Incompressible Single Phase Flow on 3D Images of Porous Media Using OpenFOAM Finite-volume Library** |
-| **[Porefoam2f](https://github.com/ImperialCollegeLondon/porefoam)** | **![Porefoam2f image](readme_resources/Porefoam2f.jpg)Direct Numerical Simulation (DNS) of Incompressible Two-phase Flow on 3D Images of Porous Media Using OpenFOAM Finite-volume Library** | 
-| **[ContactAngle](https://github.com/ImperialCollegeLondon/ContactAngle)** | **![ContactAngle image](readme_resources/ContactAngle.png)Automatic Measurements of Contact Angle, Interfacial Curvature, and Surface Roughness in Pore-Scale 3D-Images** | 
-| **[relPermCorrection](https://github.com/ImperialCollegeLondon/relPermCorrection)** | **![relPermCorrection image](readme_resources/relPermCorrection_image.png)A Novel Method That Corrects Steady-State Relative Permeability Calculations for Inhomogeneous Saturation Profiles Along the Flow Direction** |
-| **[GGIECN](https://github.com/ImperialCollegeLondon/GGIECN)** | **![GGIECN image](readme_resources/GGIECN.png) Enhanced Intelligent Segmentation with Grey Scale Image Gradients** |
- <!--
-### **Here are links to the individual code repositories:** ###
-| Repository | **Figure with Caption** |
-|------------|-------------------------|
-| **[pnextract](https://github.com/ImperialCollegeLondon/pnextract)** | **![pnextract image](1698687356786.jpeg "Pore Network Extraction from micro-CT Images of Porous Media")** |
-| **[pnflow](https://github.com/ImperialCollegeLondon/pnflow)** | **![pnflow image](path/to/pnflow_image.png "Pore Network Flow Simulation")** |
-| **[Porefoam1f](https://github.com/ImperialCollegeLondon/poreFoam-singlePhase)** | **![Porefoam1f image](path/to/Porefoam1f_image.png "Direct Numerical Simulation (DNS) of Incompressible Single Phase Flow on 3D Images of Porous Media Using OpenFOAM Finite-volume Library")** |
-| **[Porefoam2f](https://github.com/ImperialCollegeLondon/porefoam)** | **![Porefoam2f image](path/to/Porefoam2f_image.png "Direct Numerical Simulation (DNS) of Incompressible Two-phase Flow on 3D Images of Porous Media Using OpenFOAM Finite-volume Library")** |
-| **[PoreXtractor](https://github.com/ImperialCollegeLondon/poreOccupancyAnalysis)** | **![PoreXtractor image](path/to/PoreXtractor_image.png "Analysis Software for Quantification of Pore and Throat Occupancy in 3D Micro-CT Images")** |
-| **[ContactAngle](https://github.com/ImperialCollegeLondon/ContactAngle)** | **![ContactAngle image](path/to/ContactAngle_image.png "Automatic Measurements of Contact Angle, Interfacial Curvature, and Surface Roughness in Pore-Scale 3D-Images")** |
+| **[pnextract](https://github.com/ImperialCollegeLondon/pnextract)** | <img src="readme_resources/pnextract.png" width="500"/><br/>**Pore Network Extraction from Micro-CT Images of Porous Media** |
+| **[PoreXtractor](https://github.com/ImperialCollegeLondon/poreOccupancyAnalysis)** | <img src="readme_resources/poreXtractor.jpeg" width="500"/><br/>**Analysis Software for Quantification of Pore and Throat Occupancy in 3D Micro-CT Images** |
+| **[pnflow](https://github.com/ImperialCollegeLondon/pnflow)** | <img src="readme_resources/pnflow.gif" width="500"/><br/>**Pore Network Flow Simulation** |
+| **[Porefoam1f](https://github.com/ImperialCollegeLondon/poreFoam-singlePhase)** | <img src="readme_resources/Porefoam1f.png" width="500"/><br/>**Direct Numerical Simulation (DNS) of Incompressible Single Phase Flow on 3D Images of Porous Media Using OpenFOAM Finite-volume Library** |
+| **[Porefoam2f](https://github.com/ImperialCollegeLondon/porefoam)** | <img src="readme_resources/Porefoam2f.jpg" width="500"/><br/>**Direct Numerical Simulation (DNS) of Incompressible Two-phase Flow on 3D Images of Porous Media Using OpenFOAM Finite-volume Library** |
+| **[ContactAngle](https://github.com/ImperialCollegeLondon/ContactAngle)** | <img src="readme_resources/ContactAngle.png" width="500"/><br/>**Automatic Measurements of Contact Angle, Interfacial Curvature, and Surface Roughness in Pore-Scale 3D-Images** |
+| **[relPermCorrection](https://github.com/ImperialCollegeLondon/relPermCorrection)** | <img src="readme_resources/relPermCorrection_image.png" width="500"/><br/>**A Novel Method That Corrects Steady-State Relative Permeability Calculations for Inhomogeneous Saturation Profiles Along the Flow Direction** |
+| **[GGIECN](https://github.com/ImperialCollegeLondon/GGIECN)** | <img src="readme_resources/GGIECN.png" width="500"/><br/>**Enhanced Intelligent Segmentation with Grey Scale Image Gradients** |
 
--->
 
 
 The script [setup_from_scratch.sh](setup_from_scratch.sh) can be used to 
