@@ -9,9 +9,9 @@ codes/submodules linked here and contains no code of its own.
  
 | Repository | Description |
 |------------|-------------|
-| **[pnextract](https://github.com/ImperialCollegeLondon/pnextract)** | <div align="center"><img src="readme_resources/pnextract.png" width="500"/><br/><strong>Pore Network Extraction from Micro-CT Images of Porous Media</strong></div> |
-| **[PoreXtractor](https://github.com/ImperialCollegeLondon/poreOccupancyAnalysis)** | <div align="center"><img src="readme_resources/poreXtractor.jpeg" width="500"/><br/><strong>Analysis Software for Quantification of Pore and Throat Occupancy in 3D Micro-CT Images</strong></div> |
-| **[pnflow](https://github.com/ImperialCollegeLondon/pnflow)** | <div align="center"><img src="readme_resources/pnflow.gif" width="500"/><br/><strong>Pore Network Flow Simulation</strong></div> |
+| **[pnextract](https://github.com/ImperialCollegeLondon/pnextract)** | <div align="center"><img src="readme_resources/pnextract.png" width="600"/><br/><strong>Pore Network Extraction from Micro-CT Images of Porous Media</strong></div> |
+| **[PoreXtractor](https://github.com/ImperialCollegeLondon/poreOccupancyAnalysis)** | <div align="center"><img src="readme_resources/poreXtractor.jpeg" width="600"/><br/><strong>Analysis Software for Quantification of Pore and Throat Occupancy in 3D Micro-CT Images</strong></div> |
+| **[pnflow](https://github.com/ImperialCollegeLondon/pnflow)** | <div align="center"><img src="readme_resources/pnflow.gif" width="400"/><br/><strong>Pore Network Flow Simulation</strong></div> |
 | **[Porefoam1f](https://github.com/ImperialCollegeLondon/poreFoam-singlePhase)** | <div align="center"><img src="readme_resources/Porefoam1f.png" width="500"/><br/><strong>Direct Numerical Simulation (DNS) of Incompressible Single Phase Flow on 3D Images of Porous Media Using OpenFOAM Finite-volume Library</strong></div> |
 | **[Porefoam2f](https://github.com/ImperialCollegeLondon/porefoam)** | <div align="center"><img src="readme_resources/Porefoam2f.jpg" width="500"/><br/><strong>Direct Numerical Simulation (DNS) of Incompressible Two-phase Flow on 3D Images of Porous Media Using OpenFOAM Finite-volume Library</strong></div> |
 | **[ContactAngle](https://github.com/ImperialCollegeLondon/ContactAngle)** | <div align="center"><img src="readme_resources/ContactAngle.png" width="350"/><br/><strong>Automatic Measurements of Contact Angle, Interfacial Curvature, and Surface Roughness in Pore-Scale 3D-Images</strong></div> |
