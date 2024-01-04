@@ -19,14 +19,14 @@ Here are links to the individual code repositories:
  
 | Repository | Description |
 |------------|-------------|
-| **[pnextract](https://github.com/ImperialCollegeLondon/pnextract)** | **![pnextract image](path/to/pnextract_image.png)Pore Network Extraction from Micro-CT Images of Porous Media** |
+| **[pnextract](https://github.com/ImperialCollegeLondon/pnextract)** | **![pnextract image](readme_resources/pnextract_image.png)Pore Network Extraction from Micro-CT Images of Porous Media** |
 | **[PoreXtractor](https://github.com/ImperialCollegeLondon/poreOccupancyAnalysis)** | **![Image Alt Text](1698687356786.jpeg) <div align="center">Analysis Software for Quantification of Pore and Throat Occupancy in 3D Micro-CT Images</div>** |
 | **[pnflow](https://github.com/ImperialCollegeLondon/pnflow)** | **![pnflow image](readme_resources/pnflow.gif)Pore Network Flow Simulation** |
-| **[Porefoam1f](https://github.com/ImperialCollegeLondon/poreFoam-singlePhase)** | **![Porefoam1f image](path/to/Porefoam1f_image.png)Direct Numerical Simulation (DNS) of Incompressible Single Phase Flow on 3D Images of Porous Media Using OpenFOAM Finite-volume Library** |
-| **[Porefoam2f](https://github.com/ImperialCollegeLondon/porefoam)** | **![Porefoam2f image](path/to/Porefoam2f_image.png)Direct Numerical Simulation (DNS) of Incompressible Two-phase Flow on 3D Images of Porous Media Using OpenFOAM Finite-volume Library** | 
-| **[ContactAngle](https://github.com/ImperialCollegeLondon/ContactAngle)** | **![ContactAngle image](path/to/ContactAngle_image.png)Automatic Measurements of Contact Angle, Interfacial Curvature, and Surface Roughness in Pore-Scale 3D-Images** | 
-| **[relPermCorrection](https://github.com/ImperialCollegeLondon/relPermCorrection)** | **![relPermCorrection image](path/to/relPermCorrection_image.png)A Novel Method That Corrects Steady-State Relative Permeability Calculations for Inhomogeneous Saturation Profiles Along the Flow Direction** |
-| **[GGIECN](https://github.com/ImperialCollegeLondon/GGIECN)** | **![GGIECN image](path/to/GGIECN.png) Enhanced Intelligent Segmentation with Grey Scale Image Gradients** |
+| **[Porefoam1f](https://github.com/ImperialCollegeLondon/poreFoam-singlePhase)** | **![Porefoam1f image](readme_resources/Porefoam1f_image.png)Direct Numerical Simulation (DNS) of Incompressible Single Phase Flow on 3D Images of Porous Media Using OpenFOAM Finite-volume Library** |
+| **[Porefoam2f](https://github.com/ImperialCollegeLondon/porefoam)** | **![Porefoam2f image](readme_resources/Porefoam2f_image.png)Direct Numerical Simulation (DNS) of Incompressible Two-phase Flow on 3D Images of Porous Media Using OpenFOAM Finite-volume Library** | 
+| **[ContactAngle](https://github.com/ImperialCollegeLondon/ContactAngle)** | **![ContactAngle image](readme_resources/ContactAngle_image.png)Automatic Measurements of Contact Angle, Interfacial Curvature, and Surface Roughness in Pore-Scale 3D-Images** | 
+| **[relPermCorrection](https://github.com/ImperialCollegeLondon/relPermCorrection)** | **![relPermCorrection image](readme_resources/relPermCorrection_image.png)A Novel Method That Corrects Steady-State Relative Permeability Calculations for Inhomogeneous Saturation Profiles Along the Flow Direction** |
+| **[GGIECN](https://github.com/ImperialCollegeLondon/GGIECN)** | **![GGIECN image](readme_resources/GGIECN.png) Enhanced Intelligent Segmentation with Grey Scale Image Gradients** |
  <!--
 ### **Here are links to the individual code repositories:** ###
 | Repository | **Figure with Caption** |
