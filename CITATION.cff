@@ -1,0 +1,55 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Pore Scale Modeling Codes
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Sajjad
+    family-names: Foroughi
+    email: s.foroughi@imperial.ac.uk
+    affiliation: Imperial College London
+    orcid: 'https://orcid.org/0000-0002-8885-550X'
+  - given-names: Ali Q.
+    family-names: Raeini
+    email: a.q.raeini@gmail.com
+    affiliation: Emerson E&P
+    orcid: 'https://orcid.org/0000-0002-1311-1426'
+  - given-names: Branko
+    family-names: Bijeljic
+    email: b.bijeljic@imperial.ac.uk
+    orcid: 'https://orcid.org/0000-0003-0079-4624'
+    affiliation: Imperial College London
+  - given-names: Martin J.
+    family-names: Blunt
+    email: m.blunt@imperial.ac.uk
+    affiliation: Imperial College London
+    orcid: 'https://orcid.org/0000-0002-8725-0250'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.8410186
+    description: Pore Scale Modelling Codes
+repository-code: 'https://github.com/ImperialCollegeLondon/porescale'
+url: 'https://github.com/ImperialCollegeLondon/porescale'
+abstract: >-
+  The presented code represents a comprehensive suite of
+  modeling tools designed for the interpretation and
+  prediction of micro-CT experiments, as well as the
+  exploration of behaviors beyond the scope of
+  experimentally studied conditions. This suite encompasses
+  both direct simulation and pore network modeling
+  techniques. Its primary focus lies in the study of
+  multiphase flow within porous media, with a particular
+  emphasis on investigating the impacts of wettability and
+  reactive transport. By offering a versatile and adaptable
+  framework, this code empowers researchers to gain deeper
+  insights into complex phenomena and provides valuable
+  tools for advancing our understanding of porous media
+  dynamics and processes.
+keywords:
+  - pore scale modelling
+  - pore network modelling
+  - pore network extraction
