@@ -17,7 +17,8 @@ codes/submodules linked here and contains no code of its own.
 | **[ContactAngle](https://github.com/ImperialCollegeLondon/ContactAngle)** | <div align="center"><img src="readme_resources/ContactAngle.png" width="350"/><br/><strong>Automatic Measurements of Contact Angle, Interfacial Curvature, and Surface Roughness in Pore-Scale 3D-Images</strong></div> |
 | **[relPermCorrection](https://github.com/ImperialCollegeLondon/relPermCorrection)** | <div align="center"><img src="readme_resources/relPermCorrection.jpg" width="500"/><br/><strong>A Novel Method That Corrects Steady-State Relative Permeability Calculations for Inhomogeneous Saturation Profiles Along the Flow Direction</strong></div> |
 | **[GGIECN](https://github.com/ImperialCollegeLondon/GGIECN)** | <div align="center"><img src="readme_resources/GGIECN.png" width="500"/><br/><strong>Enhanced Intelligent Segmentation with Grey Scale Image Gradients</strong></div> |
-| **[IPWGAN](https://github.com/ImperialCollegeLondon/IPWGAN)** | </div align="center">><strong>Porous Media Generation </strong></div> |
+| **[IPWGAN](https://github.com/ImperialCollegeLondon/I!P!W!G!A!N)** | <div align="center"><strong>Porous Media Generation</strong></div> |
+
 
 
 
