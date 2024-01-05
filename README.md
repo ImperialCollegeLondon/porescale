@@ -18,7 +18,7 @@ codes/submodules linked here and contains no code of its own.
 | <div align="center">**[relPermCorrection](https://github.com/ImperialCollegeLondon/relPermCorrection)**</div> | <div align="center"><img src="readme_resources/relPermCorrection.jpg" width="500"/><br/><strong>A Novel Method That Corrects Steady-State Relative Permeability Calculations for Inhomogeneous Saturation Profiles Along the Flow Direction</strong></div> |
 | <div align="center">**[TangentPcFit](https://github.com/ImperialCollegeLondon/TangentPcFit)**</div> | <div align="center"><img src="readme_resources/TangentPcFit.png" width="500"/><br/><strong>Implementing a Novel Capillary Pressure Model: Fitting Experimentally Measured Data Across Diverse Wettability Conditions</strong></div> |
 | <div align="center">**[GGIECN](https://github.com/ImperialCollegeLondon/GGIECN)**</div> | <div align="center"><img src="readme_resources/GGIECN.png" width="500"/><br/><strong>Enhanced Intelligent Segmentation with Grey Scale Image Gradients</strong></div> |
-| <div align="center">**[IPWGAN](https://github.com/ImperialCollegeLondon/I!P!W!G!A!N)**</div> | <div align="center"><strong>Porous Media Generation</strong></div> |
+| <div align="center">**[IPWGAN](https://github.com/ImperialCollegeLondon/IPWGAN)**</div> | <div align="center"><strong>Porous Media Generation</strong></div> |
 
 
 
