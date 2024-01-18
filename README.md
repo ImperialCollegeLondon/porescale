@@ -3,9 +3,9 @@
 Flow in porous media occurs is ubiquitous in natural and manufactured settings, from rainfall falling on soil and transpiration in plants, to filling a baby’s nappy and fluid exchange in electrochemical devices, such as electrolysers and fuel cells. Underground, most of the world’s fresh water is held in porous rock and soil, while deeper formations may contain oil and gas; otherwise the pore space is filled with salty water which can be displaced to store carbon dioxide or hydrogen.
 
 The design and management of flow processes in porous media require accurate tools for analysis and modelling. The advent of micron-resolution three-dimensional X-ray imaging has allowed us to image the pore space and the fluids within it. However, how do we make sense of images that often contain 10s of billions of voxels?
-This challenge is met through pore-scale modeling.
+This challenge is met through pore-scale modelling.
 
-This repository has been established to facilitate access to all pore-scale modeling codes developed under the tutelage of Professor Martin Blunt and Dr. Branko Bijeljic. Furthermore, we seek to incorporate links to codes crafted individually by our team. Below are the links to each of these repositories, complete with descriptions for each:
+This repository has been established to facilitate access to all pore-scale modelling codes developed under the tutelage of Professor [Martin Blunt](https://www.imperial.ac.uk/people/m.blunt) and Dr. [Branko Bijeljic](https://www.imperial.ac.uk/people/b.bijeljic) at Imperial College London. Furthermore, we seek to incorporate links to codes crafted individually by our team. Below are the links to each of these repositories, complete with descriptions for each:
 
 
 ### **Here are links to the individual code repositories:** ###
