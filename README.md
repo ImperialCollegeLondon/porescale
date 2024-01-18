@@ -23,7 +23,13 @@ This repository has been established to facilitate access to all pore-scale mode
 | <div align="center">**[GGIECN](https://github.com/ImperialCollegeLondon/GGIECN)**</div> | <div align="center"><img src="readme_resources/GGIECN.png" width="500"/><br/><strong>Enhanced Intelligent Segmentation with Grey Scale Image Gradients</strong></div> |
 | <div align="center">**[IPWGAN](https://github.com/ImperialCollegeLondon/IPWGAN)**</div> | <div align="center"><strong>Porous Media Generation</strong></div> |
 
+***
+
+***
+
+
 ### About the Repository
+
 This repository serves as developer guide for integrating different git 
 codes/submodules linked here and contains no code of its own. 
 
