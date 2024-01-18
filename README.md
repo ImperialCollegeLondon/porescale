@@ -8,7 +8,7 @@ This challenge is met through pore-scale modelling.
 This repository has been established to facilitate access to all pore-scale modelling codes developed under the supervision of Professor **[Martin Blunt](https://www.imperial.ac.uk/people/m.blunt)** and Dr. **[Branko Bijeljic](https://www.imperial.ac.uk/people/b.bijeljic)** at Imperial College London. Below are the links to each of these repositories, complete with descriptions for each:
 
 
-%### **Here are links to the individual code repositories:** ###
+<!-- ### **Here are links to the individual code repositories:** ### -->
  
 | Repository | Description |
 |------------|-------------|
