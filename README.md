@@ -1,5 +1,4 @@
-
-## Pore-scale modules for code developers
+### Pore-Scale Modelling
 Flow in porous media occurs is ubiquitous in natural and manufactured settings, from rainfall falling on soil and transpiration in plants, to filling a baby’s nappy and fluid exchange in electrochemical devices, such as electrolysers and fuel cells. Underground, most of the world’s fresh water is held in porous rock and soil, while deeper formations may contain oil and gas; otherwise the pore space is filled with salty water which can be displaced to store carbon dioxide or hydrogen.
 
 The design and management of flow processes in porous media require accurate tools for analysis and modelling. The advent of micron-resolution three-dimensional X-ray imaging has allowed us to image the pore space and the fluids within it. However, how do we make sense of images that often contain 10s of billions of voxels?
@@ -29,7 +28,7 @@ This repository has been established to facilitate access to all pore-scale mode
 ---
 
 
-### About the Repository
+## Pore-scale modules for code developers
 
 This repository serves as developer guide for integrating different git 
 codes/submodules linked here and contains no code of its own. 
