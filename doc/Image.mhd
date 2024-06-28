@@ -32,7 +32,6 @@ ElementDataFile = Image.raw.gz
 
 
 
-
 //! ### Format Specifications:
 //! All keyword data should be provided in a single line.
 //! 
