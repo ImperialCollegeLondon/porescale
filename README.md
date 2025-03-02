@@ -30,7 +30,7 @@ This repository has been established to facilitate access to all pore-scale mode
 ---
 
 
-## Pore-scale modules for code developers
+## Pore-scale-modelling modules for code developers
 
 This repository serves as developer guide for integrating different git 
 codes/submodules linked here and contains no code of its own. 
@@ -49,10 +49,9 @@ to Github.
 
  ----------------------------------------------------------------
 
-### See [doc](doc) folder and doc and README files in each modules directory for further details
+### See [doc](doc) folder and doc and README files in each modules directory for further details.
 
  ----------------------------------------------------------------
-
 
 ### Cloning codes
 
