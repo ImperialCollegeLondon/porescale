@@ -25,7 +25,7 @@ This repository has been established to facilitate access to all pore-scale mode
 | <div align="center">**[GGIECN](https://github.com/ImperialCollegeLondon/GGIECN)**</div> | <div align="center"><img src="readme_resources/GGIECN.png" width="500"/><br/><strong>Enhanced Intelligent Segmentation with Grey Scale Image Gradients</strong></div> |
 | <div align="center">**[IPWGAN](https://github.com/ImperialCollegeLondon/IPWGAN)**</div> | <div align="center"><img src="readme_resources/IPWGAN.jpg" width="500"/><br/><strong>Porous Media Generation</strong></div> |
 | <div align="center">**[DDIM](https://github.com/ImperialCollegeLondon/DDIM)**</div> | <div align="center"><img src="readme_resources/DDIM.png" width="500"/><br/><strong>Multiphase Images Generation</strong></div> |
-
+| <div align="center">**[FFTHM](https://github.com/ImperialCollegeLondon/FFTHM)**</div> | <div align="center"><img src="readme_resources/FFTHM.png" width="500"/><br/><strong>Field-scale Flexible Relative Permeability Trapping and Hysteresis Module for OPM Flow Reservoir Simulator</strong></div> |
 ---
 
 ---
