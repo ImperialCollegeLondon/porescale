@@ -131,9 +131,8 @@ To test the compilation run `make test`.
 
 For contacts and references, please visit the individual modules or explore our research group's [Pore-Scale Modelling page](https://www.imperial.ac.uk/earth-science/research/research-groups/pore-scale-modelling).
 
-Alternatively, contact **Sajjad Foroughi**:
-- Email: s.foroughi@imperial.ac.uk
-- Additional Email: foroughi.sajad@gmail.com
+Alternatively, contact **Linqi Zhu**:
+- Email: linqi.zhu@imperial.ac.uk
 
 
 
