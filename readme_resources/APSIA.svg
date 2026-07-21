@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="480" viewBox="0 0 1200 480" role="img" aria-labelledby="title desc">
+  <title id="title">APSIA pore-scale image analysis</title>
+  <desc id="desc">Abstract three-dimensional voxel and pore visualization for the APSIA software repository.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#071d35"/>
+      <stop offset="1" stop-color="#143d5d"/>
+    </linearGradient>
+    <linearGradient id="voxel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#4dd6c5"/>
+      <stop offset="1" stop-color="#188ea2"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="480" rx="28" fill="url(#background)"/>
+
+  <g transform="translate(62 58)" fill="none" stroke="#73e0d1" stroke-width="3" opacity="0.88">
+    <path d="M80 62 210 8l132 54-132 56Z"/>
+    <path d="M80 62v142l130 58 132-58V62"/>
+    <path d="M210 118v144"/>
+    <path d="m80 108 130 56 132-56M80 156l130 56 132-56" opacity="0.5"/>
+    <path d="M124 44v142M168 26v180M254 26v180M298 44v142" opacity="0.45"/>
+  </g>
+
+  <g fill="url(#voxel)" stroke="#b9fff5" stroke-width="2">
+    <circle cx="154" cy="153" r="29"/>
+    <circle cx="232" cy="112" r="20"/>
+    <circle cx="295" cy="165" r="37"/>
+    <circle cx="190" cy="231" r="42"/>
+    <circle cx="284" cy="264" r="25"/>
+  </g>
+  <g fill="#071d35" opacity="0.82">
+    <circle cx="154" cy="153" r="10"/>
+    <circle cx="295" cy="165" r="14"/>
+    <circle cx="190" cy="231" r="16"/>
+  </g>
+
+  <line x1="420" y1="72" x2="420" y2="408" stroke="#6ecdc5" stroke-width="2" opacity="0.45"/>
+  <text x="480" y="178" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="104" font-weight="700" letter-spacing="8">APSIA</text>
+  <text x="484" y="238" fill="#a9ebe4" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="600">Avizo Pore-Scale Image Analysis</text>
+  <text x="484" y="299" fill="#d5e8f2" font-family="Arial, Helvetica, sans-serif" font-size="25">Python tools for three-dimensional image processing</text>
+  <text x="484" y="338" fill="#d5e8f2" font-family="Arial, Helvetica, sans-serif" font-size="25">and quantitative porous-media analysis</text>
+  <rect x="484" y="373" width="330" height="4" rx="2" fill="#4dd6c5"/>
+</svg>
