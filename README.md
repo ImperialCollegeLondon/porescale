@@ -29,6 +29,7 @@ This repository has been established to facilitate access to all pore-scale mode
 | <div align="center">**[FFTHM](https://github.com/ImperialCollegeLondon/FFTHM)**</div> | <div align="center"><img src="readme_resources/FFTHM.png" width="500"/><br/><strong>Field-scale Flexible Relative Permeability Trapping and Hysteresis Module for OPM Flow Reservoir Simulator</strong></div> |
 | **[Analytical-1D-solutions-for-three-phase-flow](https://github.com/ImperialCollegeLondon/Analytical-1D-solutions-for-three-phase-flow)** | <p align="center"><img src="https://raw.githubusercontent.com/ImperialCollegeLondon/Analytical-1D-solutions-for-three-phase-flow/main/weakly_water_wet/02_analytical_ternary_path.png" alt="Analytical ternary path for three-phase flow" width="300"></p>Analytical 1D solutions for gas-oil-water three-phase flow: saturation-path prediction using analytical Riemann solutions and finite-volume numerical validation. |
 | <div align="center">**[APSIA](https://github.com/ImperialCollegeLondon/APSIA)**</div> | <div align="center"><img src="readme_resources/APSIA.svg" alt="APSIA pore-scale image analysis" width="500"/><br/><strong>Avizo Pore-Scale Image Analysis</strong><br/>Python tools for Avizo-based pore-scale image processing and batch quantitative analysis.<br/><em>Repository access will be enabled following publication of the associated paper.</em></div> |
+| <div align="center">**[PoreCurvature](https://github.com/ImperialCollegeLondon/PoreCurvature)**</div> | <div align="center"><strong>Pore-Scale Curvature Analysis</strong></div> |
 ---
 
 
